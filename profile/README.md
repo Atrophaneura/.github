@@ -1,9 +1,5 @@
 # Atrophaneura 
 
-## Goals
-
-- Creating open source tools for everyone
-
 ## Projects
 
 
