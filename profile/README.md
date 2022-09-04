@@ -6,6 +6,7 @@
 - Full respect of FreeDesktop.org standards
 - Well documented
 - Extendable and themable 
+- Apps are cross-platform (*Unix, MacOS, Windows)
 
 ## FAQ
 
