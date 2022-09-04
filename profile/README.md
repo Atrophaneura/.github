@@ -1,8 +1,11 @@
 [![](../metrics/metrics.svg)](Https://GitHub.com/Atrophaneura)
 
-## Projects
+## Goals
 
-
+- Full rust
+- Full respect of FreeDesktop.org standards
+- Well documented
+- Extendable and themable 
 
 ## FAQ
 
