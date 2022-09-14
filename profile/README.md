@@ -5,8 +5,7 @@
 - Full rust
 - Full respect of FreeDesktop.org standards
 - Well documented
-- Extendable and themable 
-- Apps are cross-platform (*Unix, MacOS, Windows)
+- Extendable and themable (Recolouring API, SCSS, accent colors)
 
 ## FAQ
 
