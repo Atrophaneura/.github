@@ -1,16 +1,3 @@
 [![](https://github.com/Atrophaneura/.github/raw/main/metrics/metrics.svg)](Https://GitHub.com/Atrophaneura)
 
-## Goals
-
-- Full rust
-- Full respect of FreeDesktop.org standards
-- Well documented
-- Extendable and themable (Recolouring API, SCSS, accent colors)
-
-## FAQ
-
-### Why this name ?
-
-[Arthropods](https://en.m.wikipedia.org/wiki/Arthropod) from Ancient Greek ἄρθρον (arthron) 'joint', and πούς (pous) 'foot' (gen. ποδός) are invertebrate animals having an exoskeleton, a segmented body, and paired jointed appendages. Arthropods form the phylum Arthropoda.
-
-All project names are name of [endangered arthropods](https://en.m.wikipedia.org/wiki/List_of_endangered_arthropods)
+# Extending the GNOME Desktop
